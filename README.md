@@ -16,7 +16,7 @@ The application follows these steps to provide responses to your questions:
 
 ## 📽️ Demo
 
-[▶️ Watch the Demo Video](video/demo_video.mp4)
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1pekcplizIRoP07f7F5k_8a1tILSiXMh-/view?usp=sharing)
 
 
 ## 🌟Requirements
