@@ -77,7 +77,7 @@ def main():
             st.warning("⚠️ Please upload PDF(s) and click Submit before asking questions.")
 
     with st.sidebar:
-        st.image("image.png", use_column_width=True)
+        st.image("image.png", use_container_width=True)
         st.markdown("---")
         st.title("📁 Upload PDF Files")
 
