@@ -5,7 +5,6 @@ import google.generativeai as genai
 from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from config2 import process_pdf
-import html
 
 load_dotenv(override=True)
 
@@ -77,7 +76,7 @@ def main():
             st.warning("⚠️ Please upload PDF(s) and click Submit before asking questions.")
 
     with st.sidebar:
-        st.image("image.png", use_container_width=True)
+        st.image("image.png", use_column_width=True)
         st.markdown("---")
         st.title("📁 Upload PDF Files")
 
